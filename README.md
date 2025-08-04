@@ -1,2 +1,2 @@
 # Adidas-Sales-analyses
-This is a sales performance analyses on Adidas between 2020-2021 using an interactive dashboard.
+![Dashboard](https://github.com/AlleonJade/Adidas-Sales-analyses/blob/main/Dashboard.png)
