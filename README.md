@@ -4,16 +4,16 @@
 ### Overview
 
 
-This project presents a comprehensive analysis of Adidas sales data, focused on uncovering trends, evaluating performance, and identifying actionable insights from 2020–2021. It was conducted to practice my skills in data cleaning, transformation, and visualization using Microsoft Excel. The final dashboard offers an intuitive and interactive way to understand the key drivers behind sales across different product categories, states, and retailers.
+This project presents a comprehensive analysis of Adidas sales data, focused on uncovering trends, evaluating performance, and identifying actionable insights from 2020–2021. It was conducted to practice my skills in data cleaning, transformation, and visualization using Microsoft Excel. The final dashboard offers an intuitive and interactive way to understand the key drivers behind sales across different product categories, states, and retailers in the U.S.
 
  # Objectives
  
 
--To clean, organize, and analyze raw Adidas sales data.
+-To clean, organize, and analyze the raw Adidas sales data.
 
--To explore sales trends across different states and retailers.
+-To explore sales trends across different states, sales channells and retailers.
 
--To build a dynamic and interactive dashboard using Microsoft Excel.
+-To build an interactive dashboard using Microsoft Excel.
 
 -To identify patterns and generate insights that can support business decisions.
 
